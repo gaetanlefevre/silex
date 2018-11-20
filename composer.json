@@ -34,7 +34,7 @@
   },
   "repositories": [
     {
-      "url": "https://github.com/johndodev/ConfigServiceProvider",
+      "url": "https://github.com/gaetanlefevre/ConfigServiceProvider",
       "type": "git"
     }
   ],
