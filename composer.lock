@@ -979,7 +979,7 @@
             "version": "dev-master",
             "source": {
                 "type": "git",
-                "url": "https://github.com/johndodev/ConfigServiceProvider",
+                "url": "https://github.com/gaetanlefevre/ConfigServiceProvider",
                 "reference": "c6a14d8c50f8df2304339d5e8084f41edc3e0672"
             },
             "require": {
